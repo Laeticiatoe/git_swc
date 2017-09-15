@@ -18,7 +18,8 @@ x
 log(x)
 # vectorization
 1:5
-# vectorization
+# load packages
+library(ggplot2)
 # vectorization
 LS
 ls()
