@@ -1,5 +1,6 @@
 #author: Latoe
 #date 9/15/2017
+#Rcode for project 1
 1+100
 1+100
 #this is a comment
